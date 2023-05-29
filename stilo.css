@@ -1,0 +1,16 @@
+.titulo{color : black;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+body{
+    background-color: rgb(53, 43, 43);
+}
+    
+.contenedor{ background-color: rgb(169, 176, 207);
+    margin: 160px;
+    height: 250px;
+    border-radius: 10px;                           
+    padding: 90px;
+    width: 40%;
+
+}
